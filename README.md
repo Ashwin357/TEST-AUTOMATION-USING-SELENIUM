@@ -16,3 +16,7 @@
 WEB APPLICATION’S LOGIN AND
 NAVIGATION FUNCTIONALITY USING
 SELENIUM WEBDRIVER.
+
+  #OUTPUT
+
+  ![Image](https://github.com/user-attachments/assets/dc63a620-0534-489f-a05d-7decb78fbe0b)
